@@ -3,7 +3,7 @@
 <h1 align="left">Olá, eu sou Felipe Araújo! 👋</h1>
 
 <p align="left">
-  🎓 Sou estudante de Ciências da Computação, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+  🎓 Sou estudante de Ciências da Computação, apaixonado por tecnologia, desenvolvimento de software e games.
   Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web, programação orientada a objetos,
   estruturas de dados e desenvolvimento de projetos práticos.
 </p>
