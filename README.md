@@ -1,31 +1,30 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+<h1 align="left">Olá, eu sou Felipe Araújo! 👋</h1>
+
+<p align="left">
+  🎓 Sou estudante de Ciências da Computação, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+  Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web, programação orientada a objetos,
+  estruturas de dados e desenvolvimento de projetos práticos.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  📚 Atualmente: Estudando Ciências da Computação e desenvolvendo projetos para fortalecer conhecimentos em
+  desenvolvimento de software, banco de dados e tecnologias web.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  🦄 Linguagens: <strong>Python, JavaScript, HTML e CSS</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💼 Ferramentas: <strong>Git, GitHub, VS Code e Figma</strong>
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  🚀 Interesses: <strong>Desenvolvimento Full Stack, Engenharia de Software, Banco de Dados, Inteligência Artificial e Open Source</strong>
+</p>
+
+<p align="left">
+  Sempre em busca de aprender novas tecnologias, criar soluções inovadoras e colaborar em projetos que gerem impacto positivo. 🚀
 </p>
