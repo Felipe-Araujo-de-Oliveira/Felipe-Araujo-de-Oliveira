@@ -18,11 +18,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, GitHub, VS Code e Figma</strong>
+  💼 Ferramentas: <strong>Git, GitHub, VS Code, Bitsy e Figma</strong>
 </p>
 
 <p align="left">
-  🚀 Interesses: <strong>Desenvolvimento Full Stack, Engenharia de Software, Banco de Dados, Inteligência Artificial e Open Source</strong>
+  🚀 Interesses: <strong>Desenvolvimento de jogos, Engenharia de Software, Banco de Dados, Inteligência Artificial e criptografia</strong>
 </p>
 
 <p align="left">
