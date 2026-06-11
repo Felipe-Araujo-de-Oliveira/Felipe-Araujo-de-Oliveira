@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  🚀 Interesses: <strong>Desenvolvimento de jogos, Engenharia de Software, Banco de Dados, Inteligência Artificial e criptografia</strong>
+  🚀 Interesses: <strong>Desenvolvimento de jogos, Engenharia de Software, Banco de Dados, Inteligência Artificial, Front End e criptografia</strong>
 </p>
 
 <p align="left">
